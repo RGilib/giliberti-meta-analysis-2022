@@ -1,0 +1,13 @@
+0,1
+k__Archaea.p__Euryarchaeota.c__Methanobacteria.o__Methanobacteriales,0.00074496184
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Bacillales,0.0002253619
+k__Bacteria.p__Firmicutes.c__Negativicutes.o__Selenomonadales,0.019395487
+k__Bacteria.p__Firmicutes.c__Tissierellia.o__Tissierellales,4.236158e-33
+k__Bacteria.p__Fusobacteria.c__Fusobacteriia.o__Fusobacteriales,1.2804416e-29
+k__Bacteria.p__Proteobacteria.c__Betaproteobacteria.o__Neisseriales,0.0028194457
+k__Bacteria.p__Proteobacteria.c__Deltaproteobacteria.o__Desulfovibrionales,0.0034841096
+k__Bacteria.p__Proteobacteria.c__Epsilonproteobacteria.o__Campylobacterales,0.0028194457
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Aeromonadales,0.0013433894
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacterales,0.00060562615
+k__Bacteria.p__Spirochaetes.c__Spirochaetia.o__Spirochaetales,0.03748364
+k__Bacteria.p__Synergistetes.c__Synergistia.o__Synergistales,0.00051133864

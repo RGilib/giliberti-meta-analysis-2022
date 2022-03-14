@@ -1,0 +1,26 @@
+Castro-NallarE_2015test.txt	test precision	0.6115407462980467
+ChngKR_2016test.txt	test precision	0.5477284211521893
+CM_periimplantitistest.txt	FengQ_2015test.txt	test precision	0.8714753585921936
+GhensiP_2019_mtest.txt	test precision	0.9909578048061042
+GhensiP_2019test.txt	test precision	0.7229801568825449
+GuptaA_2019test.txt	test precision	0.48388330727955275
+HanniganGD_2017test.txt	test precision	0.7720111204285103
+Heitz-BuschartA_2016test.txt	test precision	0.7758637167274401
+HMP_2012test.txt	test precision	0.595078827302272
+IjazUZ_2017test.txt	test precision	0.8071154224801161
+JieZ_2017test.txt	test precision	0.3879255759950935
+KarlssonFH_2013test.txt	test precision	0.020888261732124522
+KosticAD_2015test.txt	test precision	0.09922988863160043
+LiJ_2017test.txt	test precision	0.6690550353970648
+NielsenHB_2014test.txt	test precision	0.40787771230961467
+QinJ_2012test.txt	test precision	0.2521921363115515
+QinN_2014test.txt	test precision	0.7280931021025024
+RaymondF_2016test.txt	test precision	0.6290528143058438
+ThomasAM_2018atest.txt	test precision	0.3905895617910762
+ThomasAM_2018btest.txt	test precision	0.36997560830122767
+VincentC_2016test.txt	VogtmannE_2016test.txt	test precision	0.7385212555078486
+WenC_2017test.txt	WirbelJ_2018test.txt	test precision	0.19053887374852524
+YachidaS_2019test.txt	test precision	0.08347721703431542
+YeZ_2018test.txt	test precision	0.4100935787323714
+YuJ_2015test.txt	test precision	0.4640470625523341
+ZellerG_2014test.txt	test precision	0.29175626903129354

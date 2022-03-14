@@ -1,0 +1,26 @@
+Castro-NallarE_2015test.txt	test recall	0.5892839150899843
+ChngKR_2016test.txt	test recall	0.6034573042523539
+CM_periimplantitistest.txt	FengQ_2015test.txt	test recall	0.7024207397635593
+GhensiP_2019_mtest.txt	test recall	0.8847784365008886
+GhensiP_2019test.txt	test recall	0.4483102888241882
+GuptaA_2019test.txt	test recall	0.4390744639078946
+HanniganGD_2017test.txt	test recall	0.7474190863457528
+Heitz-BuschartA_2016test.txt	test recall	0.6576827030626088
+HMP_2012test.txt	test recall	0.6016134715806674
+IjazUZ_2017test.txt	test recall	0.779909876635802
+JieZ_2017test.txt	test recall	0.38368052487035653
+KarlssonFH_2013test.txt	test recall	0.0190666490191871
+KosticAD_2015test.txt	test recall	0.07270910518374515
+LiJ_2017test.txt	test recall	0.2875159088690316
+NielsenHB_2014test.txt	test recall	0.40986857509843144
+QinJ_2012test.txt	test recall	0.2392960084851519
+QinN_2014test.txt	test recall	0.8500989095046928
+RaymondF_2016test.txt	test recall	0.5051859347973251
+ThomasAM_2018atest.txt	test recall	0.3940593863880706
+ThomasAM_2018btest.txt	test recall	0.42570940367806576
+VincentC_2016test.txt	VogtmannE_2016test.txt	test recall	0.8106173273968093
+WenC_2017test.txt	WirbelJ_2018test.txt	test recall	0.13619511300902765
+YachidaS_2019test.txt	test recall	0.08516241670612841
+YeZ_2018test.txt	test recall	0.367498227364505
+YuJ_2015test.txt	test recall	0.5571122678041536
+ZellerG_2014test.txt	test recall	0.3066826366640275

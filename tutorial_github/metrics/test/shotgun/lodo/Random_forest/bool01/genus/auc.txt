@@ -1,0 +1,11 @@
+FengQ_2015test.txt	test auc	1.056370057653085e-12
+GuptaA_2019test.txt	test auc	7.814671570949496e-05
+HanniganGD_2017test.txt	test auc	0.09543525024554723
+ThomasAM_2018atest.txt	test auc	0.013380841630296092
+ThomasAM_2018btest.txt	test auc	1.626140039048798e-11
+VogtmannE_2016test.txt	test auc	3.386749212650127e-10
+WirbelJ_2018test.txt	test auc	4.856187676189746e-13
+YachidaS_2019test.txt	test auc	2.773930621688216e-13
+YuJ_2015test.txt	test auc	1.7795042420067694e-10
+ZellerG_2014test.txt	test auc	1.8789207630839502e-07
+    

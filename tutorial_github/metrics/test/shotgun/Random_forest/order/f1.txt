@@ -1,0 +1,26 @@
+Castro-NallarE_2015test.txt	test f1	0.3779786233770127
+ChngKR_2016test.txt	test f1	0.7466456545966533
+CM_periimplantitistest.txt	FengQ_2015test.txt	test f1	0.051213174089468294
+GhensiP_2019_mtest.txt	test f1	0.7457666516252727
+GhensiP_2019test.txt	test f1	0.4288059861026433
+GuptaA_2019test.txt	test f1	0.045902709197759954
+HanniganGD_2017test.txt	test f1	0.9937884288292249
+Heitz-BuschartA_2016test.txt	test f1	0.07239825538035782
+HMP_2012test.txt	test f1	0.9926992930925254
+IjazUZ_2017test.txt	test f1	0.02737319861884471
+JieZ_2017test.txt	test f1	0.9381725800690148
+KarlssonFH_2013test.txt	test f1	0.0045716914475118255
+KosticAD_2015test.txt	test f1	0.0002925862373130179
+LiJ_2017test.txt	test f1	0.15232315095666157
+NielsenHB_2014test.txt	test f1	0.03094079184523383
+QinJ_2012test.txt	test f1	0.22571648730401828
+QinN_2014test.txt	test f1	0.1788008345551174
+RaymondF_2016test.txt	test f1	0.22894932267376136
+ThomasAM_2018atest.txt	test f1	0.38882850280966075
+ThomasAM_2018btest.txt	test f1	0.7444908188161758
+VincentC_2016test.txt	VogtmannE_2016test.txt	test f1	0.6345940799635092
+WenC_2017test.txt	WirbelJ_2018test.txt	test f1	0.03268948214874557
+YachidaS_2019test.txt	test f1	0.14845978305827282
+YeZ_2018test.txt	test f1	0.2791480135596543
+YuJ_2015test.txt	test f1	0.22671423450025874
+ZellerG_2014test.txt	test f1	0.34822164742625816
